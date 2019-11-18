@@ -1,1 +1,1 @@
-# laravel-socialite
+# Laravel Socialite
